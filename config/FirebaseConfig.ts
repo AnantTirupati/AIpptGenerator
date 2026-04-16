@@ -8,7 +8,7 @@ import { getAI, getGenerativeModel, GoogleAIBackend } from "firebase/ai";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDt28Udq4_VawqgWagZk1WyV2UT2qgnL-4",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "projectsbyanant.firebaseapp.com",
   projectId: "projectsbyanant",
   storageBucket: "ProjectsByAnant.appspot.com",
