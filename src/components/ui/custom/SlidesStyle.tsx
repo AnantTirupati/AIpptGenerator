@@ -1,4 +1,4 @@
-import React from 'react'
+
 import BoldRed from '../../../assets/BoldRed.png';
 import CreativeOrange from '../../../assets/CreativeOrange.png';
 import EducationBlue from '../../../assets/EducationBlue.png';

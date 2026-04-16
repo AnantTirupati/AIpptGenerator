@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Button } from '../button'
 import { Play } from 'lucide-react'
 import { HeroVideoDialog } from '../hero-video-dialog'
